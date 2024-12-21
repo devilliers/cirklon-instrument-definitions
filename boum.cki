@@ -1,0 +1,103 @@
+{
+    "instrument_data": {
+        "BOUM": {
+            "midi_port": 3,
+            "midi_chan": 2,
+            "track_values": {
+                "slot_1": {
+                    "MIDI_CC": 12,
+                    "label": "comp"
+                },
+                "slot_2": {
+                    "MIDI_CC": 13,
+                    "label": "drive"
+                },
+                "slot_3": {
+                    "MIDI_CC": 14,
+                    "label": "mix"
+                },
+                "slot_4": {
+                    "MIDI_CC": 15,
+                    "label": "hi cut"
+                },
+                "slot_5": {
+                    "MIDI_CC": 16,
+                    "label": "level"
+                },
+                "slot_6": {
+                    "MIDI_CC": 17,
+                    "label": "active"
+                },
+                "slot_7": {
+                    "MIDI_CC": 18,
+                    "label": "inGain"
+                },
+                "slot_8": {
+                    "MIDI_CC": 19,
+                    "label": "attack"
+                },
+                "slot_9": {
+                    "MIDI_CC": 20,
+                    "label": "releas"
+                },
+                "slot_10": {
+                    "MIDI_CC": 21,
+                    "label": "lo cut"
+                },
+                "slot_11": {
+                    "MIDI_CC": 22,
+                    "label": "disto"
+                },
+                "slot_12": {
+                    "MIDI_CC": 23,
+                    "label": "gate"
+                },
+                "slot_13": {
+                    "MIDI_CC": 24,
+                    "label": "sidchn"
+                }
+            },
+            "CC_defs": {
+                "CC_12": {
+                    "label": "comp"
+                },
+                "CC_13": {
+                    "label": "drive"
+                },
+                "CC_14": {
+                    "label": "mix"
+                },
+                "CC_15": {
+                    "label": "hi cut"
+                },
+                "CC_16": {
+                    "label": "level"
+                },
+                "CC_17": {
+                    "label": "active"
+                },
+                "CC_18": {
+                    "label": "inGain"
+                },
+                "CC_19": {
+                    "label": "attack"
+                },
+                "CC_20": {
+                    "label": "releas"
+                },
+                "CC_21": {
+                    "label": "lo cut"
+                },
+                "CC_22": {
+                    "label": "disto"
+                },
+                "CC_23": {
+                    "label": "gate"
+                },
+                "CC_24": {
+                    "label": "sidchn"
+                }
+            }
+        }
+    }
+}

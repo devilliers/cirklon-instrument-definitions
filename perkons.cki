@@ -1,0 +1,317 @@
+{
+    "instrument_data": {
+        "Perkons": {
+            "midi_port": 2,
+            "midi_chan": 1,
+            "default_note": "C 3",
+            "default_patt": "CK",
+            "poly_spread": "off",
+            "no_xpose": true,
+            "no_fts": true,
+            "track_values": {
+                "slot_1": {
+                    "MIDI_CC": 70,
+                    "label": "bd tun"
+                },
+                "slot_2": {
+                    "MIDI_CC": 71,
+                    "label": "bd p1"
+                },
+                "slot_3": {
+                    "MIDI_CC": 72,
+                    "label": "bd cut"
+                },
+                "slot_4": {
+                    "MIDI_CC": 73,
+                    "label": "bd snd"
+                },
+                "slot_5": {
+                    "MIDI_CC": 74,
+                    "label": "bd dcy"
+                },
+                "slot_6": {
+                    "MIDI_CC": 75,
+                    "label": "bd p2"
+                },
+                "slot_7": {
+                    "MIDI_CC": 76,
+                    "label": "bd drv"
+                },
+                "slot_8": {
+                    "MIDI_CC": 77,
+                    "label": "bd lvl"
+                },
+                "slot_9": {
+                    "MIDI_CC": 78,
+                    "label": "bdalgo"
+                },
+                "slot_10": {
+                    "MIDI_CC": 79,
+                    "label": "bdmode"
+                },
+                "slot_11": {
+                    "MIDI_CC": 81,
+                    "label": "2 tune"
+                },
+                "slot_12": {
+                    "MIDI_CC": 82,
+                    "label": "2 p1"
+                },
+                "slot_13": {
+                    "MIDI_CC": 83,
+                    "label": "2 cut"
+                },
+                "slot_14": {
+                    "MIDI_CC": 84,
+                    "label": "2 send"
+                },
+                "slot_15": {
+                    "MIDI_CC": 85,
+                    "label": "2 dcy"
+                },
+                "slot_16": {
+                    "MIDI_CC": 86,
+                    "label": "2 p2"
+                },
+                "slot_17": {
+                    "MIDI_CC": 87,
+                    "label": "2 drv"
+                },
+                "slot_18": {
+                    "MIDI_CC": 88,
+                    "label": "2 lvl"
+                },
+                "slot_19": {
+                    "MIDI_CC": 89,
+                    "label": "2 algo"
+                },
+                "slot_20": {
+                    "MIDI_CC": 90,
+                    "label": "2 mode"
+                },
+                "slot_21": {
+                    "MIDI_CC": 92,
+                    "label": "3 tune"
+                },
+                "slot_22": {
+                    "MIDI_CC": 93,
+                    "label": "3 p1"
+                },
+                "slot_23": {
+                    "MIDI_CC": 94,
+                    "label": "3 cut"
+                },
+                "slot_24": {
+                    "MIDI_CC": 95,
+                    "label": "3 send"
+                },
+                "slot_25": {
+                    "MIDI_CC": 96,
+                    "label": "3 dcy"
+                },
+                "slot_26": {
+                    "MIDI_CC": 97,
+                    "label": "3 p2"
+                },
+                "slot_27": {
+                    "MIDI_CC": 98,
+                    "label": "3 drv"
+                },
+                "slot_28": {
+                    "MIDI_CC": 99,
+                    "label": "3 lvl"
+                },
+                "slot_29": {
+                    "MIDI_CC": 100,
+                    "label": "3 algo"
+                },
+                "slot_30": {
+                    "MIDI_CC": 101,
+                    "label": "3 mode"
+                },
+                "slot_31": {
+                    "MIDI_CC": 103,
+                    "label": "4 tun"
+                },
+                "slot_32": {
+                    "MIDI_CC": 104,
+                    "label": "4 p1"
+                },
+                "slot_33": {
+                    "MIDI_CC": 105,
+                    "label": "4 cut"
+                },
+                "slot_34": {
+                    "MIDI_CC": 106,
+                    "label": "4 send"
+                },
+                "slot_35": {
+                    "MIDI_CC": 107,
+                    "label": "4 decy"
+                },
+                "slot_36": {
+                    "MIDI_CC": 108,
+                    "label": "4 p2"
+                },
+                "slot_37": {
+                    "MIDI_CC": 109,
+                    "label": "4 drv"
+                },
+                "slot_38": {
+                    "MIDI_CC": 110,
+                    "label": "4 lvl"
+                },
+                "slot_39": {
+                    "MIDI_CC": 111,
+                    "label": "4 algo"
+                },
+                "slot_40": {
+                    "MIDI_CC": 112,
+                    "label": "4 mode"
+                }
+            },
+            "CC_defs": {
+                "CC_70": {
+                    "label": "bd tun"
+                },
+                "CC_71": {
+                    "label": "bd p1"
+                },
+                "CC_72": {
+                    "label": "bd cut"
+                },
+                "CC_73": {
+                    "label": "bd snd"
+                },
+                "CC_74": {
+                    "label": "bd dcy"
+                },
+                "CC_75": {
+                    "label": "bd p2"
+                },
+                "CC_76": {
+                    "label": "bd drv"
+                },
+                "CC_77": {
+                    "label": "bd lvl"
+                },
+                "CC_78": {
+                    "label": "bdalgo"
+                },
+                "CC_79": {
+                    "label": "bdmode"
+                },
+                "CC_80": {
+                    "label": "danger"
+                },
+                "CC_81": {
+                    "label": "2 tune"
+                },
+                "CC_82": {
+                    "label": "2 p1"
+                },
+                "CC_83": {
+                    "label": "2 cut"
+                },
+                "CC_84": {
+                    "label": "2 send"
+                },
+                "CC_85": {
+                    "label": "2 dcy"
+                },
+                "CC_86": {
+                    "label": "2 p2"
+                },
+                "CC_87": {
+                    "label": "2 drv"
+                },
+                "CC_88": {
+                    "label": "2 lvl"
+                },
+                "CC_89": {
+                    "label": "2 algo"
+                },
+                "CC_90": {
+                    "label": "2 mode"
+                },
+                "CC_91": {
+                    "label": "2 vcf"
+                },
+                "CC_92": {
+                    "label": "3 tune"
+                },
+                "CC_93": {
+                    "label": "3 p1"
+                },
+                "CC_94": {
+                    "label": "3 cut"
+                },
+                "CC_95": {
+                    "label": "3 send"
+                },
+                "CC_96": {
+                    "label": "3 dcy"
+                },
+                "CC_97": {
+                    "label": "3 p2"
+                },
+                "CC_98": {
+                    "label": "3 drv"
+                },
+                "CC_99": {
+                    "label": "3 lvl"
+                },
+                "CC_100": {
+                    "label": "3 algo"
+                },
+                "CC_101": {
+                    "label": "3 mode"
+                },
+                "CC_103": {
+                    "label": "4 tun"
+                },
+                "CC_104": {
+                    "label": "4 p1"
+                },
+                "CC_105": {
+                    "label": "4 cut"
+                },
+                "CC_106": {
+                    "label": "4 send"
+                },
+                "CC_107": {
+                    "label": "4 decy"
+                },
+                "CC_108": {
+                    "label": "4 p2"
+                },
+                "CC_109": {
+                    "label": "4 drv"
+                },
+                "CC_110": {
+                    "label": "4 lvl"
+                },
+                "CC_111": {
+                    "label": "4 algo"
+                },
+                "CC_112": {
+                    "label": "4 mode"
+                }
+            },
+            "row_defs": {
+                "C 3": {
+                    "label": "BD "
+                },
+                "C#3": {
+                    "label": "PRK"
+                },
+                "D 3": {
+                    "label": "CP "
+                },
+                "D#3": {
+                    "label": "HAT"
+                }
+            }
+        }
+    }
+}

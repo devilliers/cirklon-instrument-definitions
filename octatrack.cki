@@ -1,0 +1,232 @@
+{
+    "instrument_data": {
+        "Octatrack": {
+            "midi_port": 4,
+            "midi_chan": 1,
+            "multi": true,
+            "poly_spread": "off",
+            "no_fts": true,
+            "track_values": {
+                "slot_1": {
+                    "MIDI_CC": 16,
+                    "label": "Pitch"
+                },
+                "slot_2": {
+                    "MIDI_CC": 17,
+                    "label": "Start"
+                },
+                "slot_3": {
+                    "MIDI_CC": 18,
+                    "label": "Length"
+                },
+                "slot_4": {
+                    "MIDI_CC": 19,
+                    "label": "Rate"
+                },
+                "slot_5": {
+                    "MIDI_CC": 20,
+                    "label": "Retrig"
+                },
+                "slot_6": {
+                    "MIDI_CC": 21,
+                    "label": "Rtim"
+                },
+                "slot_7": {
+                    "MIDI_CC": 22,
+                    "label": "Attack"
+                },
+                "slot_8": {
+                    "MIDI_CC": 23,
+                    "label": "Hold"
+                },
+                "slot_9": {
+                    "MIDI_CC": 24,
+                    "label": "Releas"
+                },
+                "slot_10": {
+                    "MIDI_CC": 25,
+                    "label": "Volume"
+                },
+                "slot_11": {
+                    "MIDI_CC": 26,
+                    "label": "Pan"
+                },
+                "slot_13": {
+                    "MIDI_CC": 28,
+                    "label": "LfoSp1"
+                },
+                "slot_14": {
+                    "MIDI_CC": 29,
+                    "label": "LfoSp2"
+                },
+                "slot_15": {
+                    "MIDI_CC": 30,
+                    "label": "LfoSp3"
+                },
+                "slot_16": {
+                    "MIDI_CC": 31,
+                    "label": "LfoDp1"
+                },
+                "slot_17": {
+                    "MIDI_CC": 32,
+                    "label": "LfoDp3"
+                },
+                "slot_18": {
+                    "MIDI_CC": 33,
+                    "label": "LfoDp3"
+                },
+                "slot_19": {
+                    "MIDI_CC": 34,
+                    "label": "Fx1A"
+                },
+                "slot_20": {
+                    "MIDI_CC": 35,
+                    "label": "Fx1B"
+                },
+                "slot_21": {
+                    "MIDI_CC": 36,
+                    "label": "Fx1C"
+                },
+                "slot_22": {
+                    "MIDI_CC": 37,
+                    "label": "Fx1D"
+                },
+                "slot_23": {
+                    "MIDI_CC": 38,
+                    "label": "Fx1E"
+                },
+                "slot_25": {
+                    "MIDI_CC": 40,
+                    "label": "Fx2A"
+                },
+                "slot_26": {
+                    "MIDI_CC": 41,
+                    "label": "Fx2B"
+                },
+                "slot_27": {
+                    "MIDI_CC": 42,
+                    "label": "Fx2C"
+                },
+                "slot_28": {
+                    "MIDI_CC": 43,
+                    "label": "Fx2D"
+                },
+                "slot_29": {
+                    "MIDI_CC": 44,
+                    "label": "Fx2E"
+                },
+                "slot_30": {
+                    "MIDI_CC": 45,
+                    "label": "Fx2F"
+                },
+                "slot_31": {
+                    "MIDI_CC": 48,
+                    "label": "Xfader"
+                },
+                "slot_32": {
+                    "MIDI_CC": 55,
+                    "label": "SnAsel"
+                },
+                "slot_33": {
+                    "MIDI_CC": 56,
+                    "label": "SnBsel"
+                }
+            },
+            "CC_defs": {
+                "CC_16": {
+                    "label": "Pitch"
+                },
+                "CC_17": {
+                    "label": "Start"
+                },
+                "CC_18": {
+                    "label": "Length"
+                },
+                "CC_19": {
+                    "label": "Rate"
+                },
+                "CC_20": {
+                    "label": "Retrig"
+                },
+                "CC_21": {
+                    "label": "Rtim"
+                },
+                "CC_22": {
+                    "label": "Attack"
+                },
+                "CC_23": {
+                    "label": "Hold"
+                },
+                "CC_24": {
+                    "label": "Releas"
+                },
+                "CC_25": {
+                    "label": "Volume"
+                },
+                "CC_26": {
+                    "label": "Pan"
+                },
+                "CC_28": {
+                    "label": "LfoSp1"
+                },
+                "CC_29": {
+                    "label": "LfoSp2"
+                },
+                "CC_30": {
+                    "label": "LfoSp3"
+                },
+                "CC_31": {
+                    "label": "LfoDp1"
+                },
+                "CC_32": {
+                    "label": "LfoDp3"
+                },
+                "CC_33": {
+                    "label": "LfoDp3"
+                },
+                "CC_34": {
+                    "label": "Fx1A"
+                },
+                "CC_35": {
+                    "label": "Fx1B"
+                },
+                "CC_36": {
+                    "label": "Fx1C"
+                },
+                "CC_37": {
+                    "label": "Fx1D"
+                },
+                "CC_38": {
+                    "label": "Fx1E"
+                },
+                "CC_40": {
+                    "label": "Fx2A"
+                },
+                "CC_41": {
+                    "label": "Fx2B"
+                },
+                "CC_42": {
+                    "label": "Fx2C"
+                },
+                "CC_43": {
+                    "label": "Fx2D"
+                },
+                "CC_44": {
+                    "label": "Fx2E"
+                },
+                "CC_45": {
+                    "label": "Fx2F"
+                },
+                "CC_48": {
+                    "label": "Xfader"
+                },
+                "CC_55": {
+                    "label": "SnAsel"
+                },
+                "CC_56": {
+                    "label": "SnBsel"
+                }
+            }
+        }
+    }
+}

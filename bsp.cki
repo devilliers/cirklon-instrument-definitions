@@ -1,0 +1,11 @@
+{
+    "instrument_data": {
+        "BSP": {
+            "midi_port": "hst2",
+            "midi_chan": 10,
+            "default_note": "C 3",
+            "default_patt": "P3",
+            "poly_spread": "off"
+        }
+    }
+}

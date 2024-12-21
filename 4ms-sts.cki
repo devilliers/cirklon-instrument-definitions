@@ -1,0 +1,92 @@
+{
+    "instrument_data": {
+        "4ms sts": {
+            "midi_port": "CV",
+            "midi_chan": 1,
+            "default_note": "C 3",
+            "default_patt": "P3",
+            "poly_spread": "off",
+            "track_values": {
+                "slot_1": {
+                    "MIDI_CC": 1,
+                    "label": "atk"
+                },
+                "slot_2": {
+                    "MIDI_CC": 2,
+                    "label": "dcy"
+                },
+                "slot_3": {
+                    "MIDI_CC": 3,
+                    "label": "sus"
+                },
+                "slot_4": {
+                    "MIDI_CC": 4,
+                    "label": "rel"
+                },
+                "slot_5": {
+                    "MIDI_CC": 0,
+                    "label": "vel"
+                }
+            },
+            "CC_defs": {
+                "CC_0": {
+                    "label": "vel"
+                },
+                "CC_1": {
+                    "label": "atk"
+                },
+                "CC_2": {
+                    "label": "dcy"
+                },
+                "CC_3": {
+                    "label": "sus"
+                },
+                "CC_4": {
+                    "label": "rel"
+                }
+            },
+            "row_defs": {
+                "C 0": {
+                    "label": "S1 ",
+                    "always_show": true
+                },
+                "E 0": {
+                    "label": "S2 ",
+                    "always_show": true
+                },
+                "B 0": {
+                    "label": "S3 ",
+                    "always_show": true
+                },
+                "G 1": {
+                    "label": "S4 ",
+                    "always_show": true
+                },
+                "C 2": {
+                    "label": "S5 ",
+                    "always_show": true
+                },
+                "G 2": {
+                    "label": "S6 ",
+                    "always_show": true
+                },
+                "D 3": {
+                    "label": "S7 ",
+                    "always_show": true
+                },
+                "G 3": {
+                    "label": "S8 ",
+                    "always_show": true
+                },
+                "D 4": {
+                    "label": "S9 ",
+                    "always_show": true
+                },
+                "A 4": {
+                    "label": "S10",
+                    "always_show": true
+                }
+            }
+        }
+    }
+}
