@@ -1,282 +1,282 @@
 {
-    "instrument_data": {
-        "Digitone": {
-            "midi_port": "5",
-            "midi_chan": 3,
-            "track_values": {
-                "slot_1": {
-                    "MIDI_CC": 91,
-                    "label": "Algo"
-                },
-                "slot_2": {
-                    "MIDI_CC": 92,
-                    "label": "RatioC"
-                },
-                "slot_3": {
-                    "MIDI_CC": 93,
-                    "label": "RatioA"
-                },
-                "slot_4": {
-                    "MIDI_CC": 16,
-                    "label": "RatioB"
-                },
-                "slot_5": {
-                    "MIDI_CC": 17,
-                    "label": "Harmon"
-                },
-                "slot_6": {
-                    "MIDI_CC": 18,
-                    "label": "Detune"
-                },
-                "slot_7": {
-                    "MIDI_CC": 19,
-                    "label": "Fdbck"
-                },
-                "slot_8": {
-                    "MIDI_CC": 20,
-                    "label": "Mix"
-                },
-                "slot_9": {
-                    "MIDI_CC": 75,
-                    "label": "A Att"
-                },
-                "slot_10": {
-                    "MIDI_CC": 76,
-                    "label": "A Dec"
-                },
-                "slot_11": {
-                    "MIDI_CC": 77,
-                    "label": "A Sus"
-                },
-                "slot_12": {
-                    "MIDI_CC": 78,
-                    "label": "A Rel"
-                },
-                "slot_13": {
-                    "MIDI_CC": 79,
-                    "label": "B Att"
-                },
-                "slot_14": {
-                    "MIDI_CC": 80,
-                    "label": "B Dec"
-                },
-                "slot_15": {
-                    "MIDI_CC": 81,
-                    "label": "B Sus"
-                },
-                "slot_16": {
-                    "MIDI_CC": 82,
-                    "label": "B Rel"
-                },
-                "slot_17": {
-                    "MIDI_CC": 83,
-                    "label": "A Del"
-                },
-                "slot_18": {
-                    "MIDI_CC": 86,
-                    "label": "B Del"
-                },
-                "slot_19": {
-                    "MIDI_CC": 23,
-                    "label": "Cutoff"
-                },
-                "slot_20": {
-                    "MIDI_CC": 24,
-                    "label": "Reson"
-                },
-                "slot_21": {
-                    "MIDI_CC": 74,
-                    "label": "Type"
-                },
-                "slot_22": {
-                    "MIDI_CC": 26,
-                    "label": "Base"
-                },
-                "slot_23": {
-                    "MIDI_CC": 27,
-                    "label": "Width"
-                },
-                "slot_24": {
-                    "MIDI_CC": 77,
-                    "label": "EnvDep"
-                },
-                "slot_25": {
-                    "MIDI_CC": 70,
-                    "label": "F Att"
-                },
-                "slot_26": {
-                    "MIDI_CC": 71,
-                    "label": "F Dec"
-                },
-                "slot_27": {
-                    "MIDI_CC": 72,
-                    "label": "F Sus"
-                },
-                "slot_28": {
-                    "MIDI_CC": 73,
-                    "label": "F Rel"
-                },
-                "slot_31": {
-                    "MIDI_CC": 104,
-                    "label": "A Att"
-                },
-                "slot_32": {
-                    "MIDI_CC": 105,
-                    "label": "A Dec"
-                },
-                "slot_33": {
-                    "MIDI_CC": 106,
-                    "label": "A Sus"
-                },
-                "slot_34": {
-                    "MIDI_CC": 107,
-                    "label": "A Rel"
-                },
-                "slot_35": {
-                    "MIDI_CC": 10,
-                    "label": "Pan"
-                },
-                "slot_36": {
-                    "MIDI_CC": 7,
-                    "label": "Volu"
-                },
-                "slot_37": {
-                    "MIDI_CC": 12,
-                    "label": "Chorus"
-                },
-                "slot_38": {
-                    "MIDI_CC": 13,
-                    "label": "Delay"
-                },
-                "slot_39": {
-                    "MIDI_CC": 14,
-                    "label": "Reverb"
-                },
-                "slot_43": {
-                    "MIDI_CC": 28,
-                    "label": "1 Rate"
-                },
-                "slot_44": {
-                    "MIDI_CC": 108,
-                    "label": "1 Mult"
-                },
-                "slot_45": {
-                    "MIDI_CC": 109,
-                    "label": "1 Fade"
-                },
-                "slot_46": {
-                    "MIDI_CC": 110,
-                    "label": "1 Dest"
-                },
-                "slot_47": {
-                    "MIDI_CC": 111,
-                    "label": "1 Wave"
-                },
-                "slot_48": {
-                    "MIDI_CC": 29,
-                    "label": "1 Dept"
-                },
-                "slot_49": {
-                    "MIDI_CC": 30,
-                    "label": "2 Rate"
-                },
-                "slot_50": {
-                    "MIDI_CC": 114,
-                    "label": "2 Mult"
-                },
-                "slot_51": {
-                    "MIDI_CC": 115,
-                    "label": "2 Fade"
-                },
-                "slot_52": {
-                    "MIDI_CC": 116,
-                    "label": "2 Dest"
-                },
-                "slot_53": {
-                    "MIDI_CC": 117,
-                    "label": "2 Wave"
-                },
-                "slot_54": {
-                    "MIDI_CC": 31,
-                    "label": "2 Dept"
-                },
-                "slot_55": {
-                    "MIDI_CC": 3,
-                    "label": "C Dep"
-                },
-                "slot_56": {
-                    "MIDI_CC": 9,
-                    "label": "C Rate"
-                },
-                "slot_57": {
-                    "MIDI_CC": 70,
-                    "label": "C HP"
-                },
-                "slot_58": {
-                    "MIDI_CC": 71,
-                    "label": "CWidth"
-                },
-                "slot_59": {
-                    "MIDI_CC": 12,
-                    "label": "CDelSn"
-                },
-                "slot_60": {
-                    "MIDI_CC": 14,
-                    "label": "C Vol"
-                },
-                "slot_61": {
-                    "MIDI_CC": 15,
-                    "label": "D Time"
-                },
-                "slot_62": {
-                    "MIDI_CC": 18,
-                    "label": "D Fbck"
-                },
-                "slot_63": {
-                    "MIDI_CC": 72,
-                    "label": "D HPF"
-                },
-                "slot_64": {
-                    "MIDI_CC": 73,
-                    "label": "D LPF"
-                },
-                "slot_65": {
-                    "MIDI_CC": 19,
-                    "label": "DRevSn"
-                },
-                "slot_66": {
-                    "MIDI_CC": 20,
-                    "label": "D Vol"
-                },
-                "slot_67": {
-                    "MIDI_CC": 21,
-                    "label": "R Pred"
-                },
-                "slot_68": {
-                    "MIDI_CC": 74,
-                    "label": "R Dec"
-                },
-                "slot_69": {
-                    "MIDI_CC": 75,
-                    "label": "R Freq"
-                },
-                "slot_70": {
-                    "MIDI_CC": 22,
-                    "label": "R Gain"
-                },
-                "slot_71": {
-                    "MIDI_CC": 76,
-                    "label": "R HPF"
-                },
-                "slot_72": {
-                    "MIDI_CC": 77,
-                    "label": "R LPF"
-                },
-                "slot_73": {
-                    "MIDI_CC": 23,
-                    "label": "R Vol"
-                }
-            }
-        }
-    }
+	"instrument_data": {
+		"Digitone": {
+			"midi_port": "5",
+			"midi_chan": 3,
+			"track_values": {
+				"slot_1": {
+					"MIDI_CC": 91,
+					"label": "Algo"
+				},
+				"slot_2": {
+					"MIDI_CC": 92,
+					"label": "RatioC"
+				},
+				"slot_3": {
+					"MIDI_CC": 93,
+					"label": "RatioA"
+				},
+				"slot_4": {
+					"MIDI_CC": 16,
+					"label": "RatioB"
+				},
+				"slot_5": {
+					"MIDI_CC": 17,
+					"label": "Harmon"
+				},
+				"slot_6": {
+					"MIDI_CC": 18,
+					"label": "Detune"
+				},
+				"slot_7": {
+					"MIDI_CC": 19,
+					"label": "Fdbck"
+				},
+				"slot_8": {
+					"MIDI_CC": 20,
+					"label": "Mix"
+				},
+				"slot_9": {
+					"MIDI_CC": 75,
+					"label": "A Att"
+				},
+				"slot_10": {
+					"MIDI_CC": 76,
+					"label": "A Dec"
+				},
+				"slot_11": {
+					"MIDI_CC": 77,
+					"label": "A Sus"
+				},
+				"slot_12": {
+					"MIDI_CC": 78,
+					"label": "A Rel"
+				},
+				"slot_13": {
+					"MIDI_CC": 79,
+					"label": "B Att"
+				},
+				"slot_14": {
+					"MIDI_CC": 80,
+					"label": "B Dec"
+				},
+				"slot_15": {
+					"MIDI_CC": 81,
+					"label": "B Sus"
+				},
+				"slot_16": {
+					"MIDI_CC": 82,
+					"label": "B Rel"
+				},
+				"slot_17": {
+					"MIDI_CC": 83,
+					"label": "A Del"
+				},
+				"slot_18": {
+					"MIDI_CC": 86,
+					"label": "B Del"
+				},
+				"slot_19": {
+					"MIDI_CC": 23,
+					"label": "Cutoff"
+				},
+				"slot_20": {
+					"MIDI_CC": 24,
+					"label": "Reson"
+				},
+				"slot_21": {
+					"MIDI_CC": 74,
+					"label": "Type"
+				},
+				"slot_22": {
+					"MIDI_CC": 26,
+					"label": "Base"
+				},
+				"slot_23": {
+					"MIDI_CC": 27,
+					"label": "Width"
+				},
+				"slot_24": {
+					"MIDI_CC": 77,
+					"label": "EnvDep"
+				},
+				"slot_25": {
+					"MIDI_CC": 70,
+					"label": "F Att"
+				},
+				"slot_26": {
+					"MIDI_CC": 71,
+					"label": "F Dec"
+				},
+				"slot_27": {
+					"MIDI_CC": 72,
+					"label": "F Sus"
+				},
+				"slot_28": {
+					"MIDI_CC": 73,
+					"label": "F Rel"
+				},
+				"slot_31": {
+					"MIDI_CC": 104,
+					"label": "A Att"
+				},
+				"slot_32": {
+					"MIDI_CC": 105,
+					"label": "A Dec"
+				},
+				"slot_33": {
+					"MIDI_CC": 106,
+					"label": "A Sus"
+				},
+				"slot_34": {
+					"MIDI_CC": 107,
+					"label": "A Rel"
+				},
+				"slot_35": {
+					"MIDI_CC": 10,
+					"label": "Pan"
+				},
+				"slot_36": {
+					"MIDI_CC": 7,
+					"label": "Volu"
+				},
+				"slot_37": {
+					"MIDI_CC": 12,
+					"label": "Chorus"
+				},
+				"slot_38": {
+					"MIDI_CC": 13,
+					"label": "Delay"
+				},
+				"slot_39": {
+					"MIDI_CC": 14,
+					"label": "Reverb"
+				},
+				"slot_43": {
+					"MIDI_CC": 28,
+					"label": "1 Rate"
+				},
+				"slot_44": {
+					"MIDI_CC": 108,
+					"label": "1 Mult"
+				},
+				"slot_45": {
+					"MIDI_CC": 109,
+					"label": "1 Fade"
+				},
+				"slot_46": {
+					"MIDI_CC": 110,
+					"label": "1 Dest"
+				},
+				"slot_47": {
+					"MIDI_CC": 111,
+					"label": "1 Wave"
+				},
+				"slot_48": {
+					"MIDI_CC": 29,
+					"label": "1 Dept"
+				},
+				"slot_49": {
+					"MIDI_CC": 30,
+					"label": "2 Rate"
+				},
+				"slot_50": {
+					"MIDI_CC": 114,
+					"label": "2 Mult"
+				},
+				"slot_51": {
+					"MIDI_CC": 115,
+					"label": "2 Fade"
+				},
+				"slot_52": {
+					"MIDI_CC": 116,
+					"label": "2 Dest"
+				},
+				"slot_53": {
+					"MIDI_CC": 117,
+					"label": "2 Wave"
+				},
+				"slot_54": {
+					"MIDI_CC": 31,
+					"label": "2 Dept"
+				},
+				"slot_55": {
+					"MIDI_CC": 3,
+					"label": "C Dep"
+				},
+				"slot_56": {
+					"MIDI_CC": 9,
+					"label": "C Rate"
+				},
+				"slot_57": {
+					"MIDI_CC": 70,
+					"label": "C HP"
+				},
+				"slot_58": {
+					"MIDI_CC": 71,
+					"label": "CWidth"
+				},
+				"slot_59": {
+					"MIDI_CC": 12,
+					"label": "CDelSn"
+				},
+				"slot_60": {
+					"MIDI_CC": 14,
+					"label": "C Vol"
+				},
+				"slot_61": {
+					"MIDI_CC": 15,
+					"label": "D Time"
+				},
+				"slot_62": {
+					"MIDI_CC": 18,
+					"label": "D Fbck"
+				},
+				"slot_63": {
+					"MIDI_CC": 72,
+					"label": "D HPF"
+				},
+				"slot_64": {
+					"MIDI_CC": 73,
+					"label": "D LPF"
+				},
+				"slot_65": {
+					"MIDI_CC": 19,
+					"label": "DRevSn"
+				},
+				"slot_66": {
+					"MIDI_CC": 20,
+					"label": "D Vol"
+				},
+				"slot_67": {
+					"MIDI_CC": 21,
+					"label": "R Pred"
+				},
+				"slot_68": {
+					"MIDI_CC": 74,
+					"label": "R Dec"
+				},
+				"slot_69": {
+					"MIDI_CC": 75,
+					"label": "R Freq"
+				},
+				"slot_70": {
+					"MIDI_CC": 22,
+					"label": "R Gain"
+				},
+				"slot_71": {
+					"MIDI_CC": 76,
+					"label": "R HPF"
+				},
+				"slot_72": {
+					"MIDI_CC": 77,
+					"label": "R LPF"
+				},
+				"slot_73": {
+					"MIDI_CC": 23,
+					"label": "R Vol"
+				}
+			}
+		}
+	}
 }
