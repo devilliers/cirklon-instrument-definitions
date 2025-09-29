@@ -59,22 +59,22 @@
             },
             "track_values": {
                 "slot_1": {
-                    "track_control": "pgm"
+                    "MIDI_CC": 11,
+                    "label": "SynTrig",
+                    "min_val": 0,
+                    "max_val": 1,
+                    "start_val": 1
                 },
                 "slot_2": {
-                    "track_control": "note%"
-                },
-                "slot_3": {
-                    "track_control": "noteC"
-                },
-                "slot_4": {
-                    "MIDI_CC": 11,
-                    "label": "SynTrig"
-                },
-                "slot_5": {
                     "MIDI_CC": 12,
-                    "label": "SampTrig"
+                    "label": "SmpTrig",
+                    "min_val": 0,
+                    "max_val": 1,
+                    "start_val": 1
                 },
+                "slot_3": {},
+                "slot_4": {},
+                "slot_5": {},
                 "slot_6": {
                     "MIDI_CC": 13,
                     "label": "EnvTrig"
@@ -85,7 +85,10 @@
                 },
                 "slot_8": {
                     "MIDI_CC": 95,
-                    "label": "TrkLvl"
+                    "label": "TrkLvl",
+                    "min_val": 0,
+                    "max_val": 127,
+                    "start_val": 100
                 },
                 "slot_9": {
                     "MIDI_CC": 94,
@@ -153,67 +156,79 @@
                 },
                 "slot_25": {
                     "MIDI_CC": 16,
-                    "label": "SynthParam1"
+                    "label": "SynthP1"
                 },
                 "slot_26": {
                     "MIDI_CC": 17,
-                    "label": "SynthParam2"
+                    "label": "SynthP2"
                 },
                 "slot_27": {
                     "MIDI_CC": 18,
-                    "label": "SynthParam3"
+                    "label": "SynthP3"
                 },
                 "slot_28": {
                     "MIDI_CC": 19,
-                    "label": "SynthParam4"
+                    "label": "SynthP4"
                 },
                 "slot_29": {
                     "MIDI_CC": 20,
-                    "label": "SynthParam5"
+                    "label": "SynthP5"
                 },
                 "slot_30": {
                     "MIDI_CC": 21,
-                    "label": "SynthParam6"
+                    "label": "SynthP6"
                 },
                 "slot_31": {
                     "MIDI_CC": 22,
-                    "label": "SynthParam7"
+                    "label": "SynthP7"
                 },
                 "slot_32": {
                     "MIDI_CC": 23,
-                    "label": "SynthParam8"
+                    "label": "SynthP8"
                 },
                 "slot_33": {
                     "MIDI_CC": 24,
-                    "label": "SampTune"
+                    "label": "SmpTune"
                 },
                 "slot_34": {
                     "MIDI_CC": 25,
-                    "label": "SampFine"
+                    "label": "SmpFine"
                 },
                 "slot_35": {
                     "MIDI_CC": 26,
-                    "label": "SampBitR"
+                    "label": "SmpBR"
                 },
                 "slot_36": {
                     "MIDI_CC": 27,
-                    "label": "SampSlot"
+                    "label": "SmpSlot"
                 },
                 "slot_37": {
                     "MIDI_CC": 28,
-                    "label": "SampStart"
+                    "label": "SmpStart",
+                    "min_val": 0,
+                    "max_val": 127,
+                    "start_val": 0
                 },
                 "slot_38": {
                     "MIDI_CC": 29,
-                    "label": "SampEnd"
+                    "label": "SmpEnd",
+                    "min_val": 0,
+                    "max_val": 127,
+                    "start_val": 127
                 },
                 "slot_39": {
                     "MIDI_CC": 30,
-                    "label": "SampLoop"
+                    "label": "SmpLoop",
+                    "min_val": 0,
+                    "max_val": 1,
+                    "start_val": 0
                 },
                 "slot_40": {
                     "MIDI_CC": 31,
-                    "label": "SampLvl"
+                    "label": "SmpLvl",
+                    "min_val": 0,
+                    "max_val": 127,
+                    "start_val": 100
                 },
                 "slot_41": {
                     "MIDI_CC": 70,
