@@ -59,33 +59,102 @@
             },
             "track_values": {
                 "slot_1": {
-                    "MIDI_CC": 11,
-                    "label": "SynTrig",
+                    "MIDI_CC": 7,
+                    "label": "AmpVolume",
                     "min_val": 0,
-                    "max_val": 1,
-                    "start_val": 1
+                    "max_val": 127,
+                    "start_val": 100
                 },
                 "slot_2": {
+                    "MIDI_CC": 74,
+                    "label": "FilterFrequency"
+                },
+                "slot_3": {
                     "MIDI_CC": 12,
                     "label": "SmpTrig",
                     "min_val": 0,
                     "max_val": 1,
                     "start_val": 1
                 },
-                "slot_3": {},
-                "slot_4": {},
-                "slot_5": {},
+                "slot_4": {
+                    "MIDI_CC": 27,
+                    "label": "SmpSlot"
+                },
+                "slot_5": {
+                    "MIDI_CC": 28,
+                    "label": "SmpStart",
+                    "min_val": 0,
+                    "max_val": 127,
+                    "start_val": 0
+                },
                 "slot_6": {
-                    "MIDI_CC": 13,
-                    "label": "EnvTrig"
+                    "MIDI_CC": 29,
+                    "label": "SmpEnd",
+                    "min_val": 0,
+                    "max_val": 127,
+                    "start_val": 127
                 },
                 "slot_7": {
-                    "MIDI_CC": 14,
-                    "label": "LFOTrig"
+                    "MIDI_CC": 30,
+                    "label": "SmpLoop",
+                    "min_val": 0,
+                    "max_val": 1,
+                    "start_val": 0
+                },
+                "slot_25": {
+                    "MIDI_CC": 16,
+                    "label": "SynthP1"
+                },
+                "slot_26": {
+                    "MIDI_CC": 17,
+                    "label": "SynthP2"
+                },
+                "slot_27": {
+                    "MIDI_CC": 18,
+                    "label": "SynthP3"
+                },
+                "slot_28": {
+                    "MIDI_CC": 19,
+                    "label": "SynthP4"
+                },
+                "slot_29": {
+                    "MIDI_CC": 20,
+                    "label": "SynthP5"
+                },
+                "slot_30": {
+                    "MIDI_CC": 21,
+                    "label": "SynthP6"
+                },
+                "slot_31": {
+                    "MIDI_CC": 22,
+                    "label": "SynthP7"
+                },
+                "slot_32": {
+                    "MIDI_CC": 23,
+                    "label": "SynthP8"
+                },
+                "slot_33": {
+                    "MIDI_CC": 24,
+                    "label": "SmpTune"
+                },
+                "slot_34": {
+                    "MIDI_CC": 25,
+                    "label": "SmpFine"
+                },
+                "slot_35": {
+                    "MIDI_CC": 26,
+                    "label": "SmpBR"
                 },
                 "slot_8": {
                     "MIDI_CC": 95,
                     "label": "TrkLvl",
+                    "min_val": 0,
+                    "max_val": 127,
+                    "start_val": 100
+                },
+                "slot_40": {
+                    "MIDI_CC": 31,
+                    "label": "SmpLvl",
                     "min_val": 0,
                     "max_val": 127,
                     "start_val": 100
@@ -101,6 +170,92 @@
                 "slot_11": {
                     "MIDI_CC": 15,
                     "label": "MachineType"
+                },
+                "slot_41": {
+                    "MIDI_CC": 70,
+                    "label": "Filter Attack Time"
+                },
+                "slot_42": {
+                    "MIDI_CC": 71,
+                    "label": "FilterDecayTime"
+                },
+                "slot_43": {
+                    "MIDI_CC": 72,
+                    "label": "FilterSustainLevel"
+                },
+                "slot_44": {
+                    "MIDI_CC": 73,
+                    "label": "FilterReleaseTime"
+                },
+                "slot_45": {},
+                "slot_46": {
+                    "MIDI_CC": 75,
+                    "label": "FilterResonance"
+                },
+                "slot_47": {
+                    "MIDI_CC": 76,
+                    "label": "FilterMode"
+                },
+                "slot_48": {
+                    "MIDI_CC": 77,
+                    "label": "FilterEnvDepth"
+                },
+                "slot_49": {
+                    "MIDI_CC": 78,
+                    "label": "AmpAttackTime"
+                },
+                "slot_50": {
+                    "MIDI_CC": 79,
+                    "label": "AmpHoldTime"
+                },
+                "slot_51": {
+                    "MIDI_CC": 80,
+                    "label": "AmpDecayTime"
+                },
+                "slot_52": {
+                    "MIDI_CC": 81,
+                    "label": "AmpOverdrive"
+                },
+                "slot_53": {
+                    "MIDI_CC": 82,
+                    "label": "AmpDelaySend"
+                },
+                "slot_54": {
+                    "MIDI_CC": 83,
+                    "label": "AmpReverbSend"
+                },
+                "slot_55": {
+                    "MIDI_CC": 10,
+                    "label": "AmpPan"
+                },
+                "slot_56": {},
+                "slot_57": {
+                    "MIDI_CC": 102,
+                    "label": "LFOSpeed"
+                },
+                "slot_58": {
+                    "MIDI_CC": 103,
+                    "label": "LFOMultiplier"
+                },
+                "slot_59": {
+                    "MIDI_CC": 104,
+                    "label": "LFOFadeIn/Out"
+                },
+                "slot_60": {
+                    "MIDI_CC": 105,
+                    "label": "LFODestination"
+                },
+                "slot_61": {
+                    "MIDI_CC": 106,
+                    "label": "LFOWaveform"
+                },
+                "slot_62": {
+                    "MIDI_CC": 107,
+                    "label": "LFOStartPhase"
+                },
+                "slot_63": {
+                    "MIDI_CC": 108,
+                    "label": "LFOTrigMode"
                 },
                 "slot_12": {
                     "MIDI_CC": 92,
@@ -154,174 +309,10 @@
                     "MIDI_CC": 47,
                     "label": "Perf12"
                 },
-                "slot_25": {
-                    "MIDI_CC": 16,
-                    "label": "SynthP1"
-                },
-                "slot_26": {
-                    "MIDI_CC": 17,
-                    "label": "SynthP2"
-                },
-                "slot_27": {
-                    "MIDI_CC": 18,
-                    "label": "SynthP3"
-                },
-                "slot_28": {
-                    "MIDI_CC": 19,
-                    "label": "SynthP4"
-                },
-                "slot_29": {
-                    "MIDI_CC": 20,
-                    "label": "SynthP5"
-                },
-                "slot_30": {
-                    "MIDI_CC": 21,
-                    "label": "SynthP6"
-                },
-                "slot_31": {
-                    "MIDI_CC": 22,
-                    "label": "SynthP7"
-                },
-                "slot_32": {
-                    "MIDI_CC": 23,
-                    "label": "SynthP8"
-                },
-                "slot_33": {
-                    "MIDI_CC": 24,
-                    "label": "SmpTune"
-                },
-                "slot_34": {
-                    "MIDI_CC": 25,
-                    "label": "SmpFine"
-                },
-                "slot_35": {
-                    "MIDI_CC": 26,
-                    "label": "SmpBR"
-                },
-                "slot_36": {
-                    "MIDI_CC": 27,
-                    "label": "SmpSlot"
-                },
-                "slot_37": {
-                    "MIDI_CC": 28,
-                    "label": "SmpStart",
-                    "min_val": 0,
-                    "max_val": 127,
-                    "start_val": 0
-                },
-                "slot_38": {
-                    "MIDI_CC": 29,
-                    "label": "SmpEnd",
-                    "min_val": 0,
-                    "max_val": 127,
-                    "start_val": 127
-                },
-                "slot_39": {
-                    "MIDI_CC": 30,
-                    "label": "SmpLoop",
-                    "min_val": 0,
-                    "max_val": 1,
-                    "start_val": 0
-                },
-                "slot_40": {
-                    "MIDI_CC": 31,
-                    "label": "SmpLvl",
-                    "min_val": 0,
-                    "max_val": 127,
-                    "start_val": 100
-                },
-                "slot_41": {
-                    "MIDI_CC": 70,
-                    "label": "Filter Attack Time"
-                },
-                "slot_42": {
-                    "MIDI_CC": 71,
-                    "label": "FilterDecayTime"
-                },
-                "slot_43": {
-                    "MIDI_CC": 72,
-                    "label": "FilterSustainLevel"
-                },
-                "slot_44": {
-                    "MIDI_CC": 73,
-                    "label": "FilterReleaseTime"
-                },
-                "slot_45": {
-                    "MIDI_CC": 74,
-                    "label": "FilterFrequency"
-                },
-                "slot_46": {
-                    "MIDI_CC": 75,
-                    "label": "FilterResonance"
-                },
-                "slot_47": {
-                    "MIDI_CC": 76,
-                    "label": "FilterMode"
-                },
-                "slot_48": {
-                    "MIDI_CC": 77,
-                    "label": "FilterEnvDepth"
-                },
-                "slot_49": {
-                    "MIDI_CC": 78,
-                    "label": "AmpAttackTime"
-                },
-                "slot_50": {
-                    "MIDI_CC": 79,
-                    "label": "AmpHoldTime"
-                },
-                "slot_51": {
-                    "MIDI_CC": 80,
-                    "label": "AmpDecayTime"
-                },
-                "slot_52": {
-                    "MIDI_CC": 81,
-                    "label": "AmpOverdrive"
-                },
-                "slot_53": {
-                    "MIDI_CC": 82,
-                    "label": "AmpDelaySend"
-                },
-                "slot_54": {
-                    "MIDI_CC": 83,
-                    "label": "AmpReverbSend"
-                },
-                "slot_55": {
-                    "MIDI_CC": 10,
-                    "label": "AmpPan"
-                },
-                "slot_56": {
-                    "MIDI_CC": 7,
-                    "label": "AmpVolume"
-                },
-                "slot_57": {
-                    "MIDI_CC": 102,
-                    "label": "LFOSpeed"
-                },
-                "slot_58": {
-                    "MIDI_CC": 103,
-                    "label": "LFOMultiplier"
-                },
-                "slot_59": {
-                    "MIDI_CC": 104,
-                    "label": "LFOFadeIn/Out"
-                },
-                "slot_60": {
-                    "MIDI_CC": 105,
-                    "label": "LFODestination"
-                },
-                "slot_61": {
-                    "MIDI_CC": 106,
-                    "label": "LFOWaveform"
-                },
-                "slot_62": {
-                    "MIDI_CC": 107,
-                    "label": "LFOStartPhase"
-                },
-                "slot_63": {
-                    "MIDI_CC": 108,
-                    "label": "LFOTrigMode"
-                }
+                "slot_36": {},
+                "slot_37": {},
+                "slot_38": {},
+                "slot_39": {}
             }
         }
     }
